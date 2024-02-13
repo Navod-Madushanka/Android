@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "294562834700",
+    "project_id": "etrade-b0f68",
+    "storage_bucket": "etrade-b0f68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294562834700:android:55c9454790c42cdc2e8129",
+        "android_client_info": {
+          "package_name": "com.navod.etrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294562834700-tcjb7etdujc46k9stlug21sg8bc421ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navod.etrade",
+            "certificate_hash": "0516126facae5324dd55f7a2db249baaaf6a8986"
+          }
+        },
+        {
+          "client_id": "294562834700-s3fhu3fs1k18sch5duk89ov1l6fleokj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwc3siPu2atA31mV2R6Yfas0MhQFDlTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294562834700-s3fhu3fs1k18sch5duk89ov1l6fleokj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294562834700:android:a2d82c62047fee3f2e8129",
+        "android_client_info": {
+          "package_name": "com.navod.etradeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294562834700-lqf9mnhpek1u8hqaf5oldojh50r9l1gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navod.etradeadmin",
+            "certificate_hash": "0516126facae5324dd55f7a2db249baaaf6a8986"
+          }
+        },
+        {
+          "client_id": "294562834700-s3fhu3fs1k18sch5duk89ov1l6fleokj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwc3siPu2atA31mV2R6Yfas0MhQFDlTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294562834700-s3fhu3fs1k18sch5duk89ov1l6fleokj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294562834700:android:82acf5d0074f9ba02e8129",
+        "android_client_info": {
+          "package_name": "com.navod.etradedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294562834700-conicv266vrkq7ee44lau4i3e5lh9554.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navod.etradedelivery",
+            "certificate_hash": "0516126facae5324dd55f7a2db249baaaf6a8986"
+          }
+        },
+        {
+          "client_id": "294562834700-s3fhu3fs1k18sch5duk89ov1l6fleokj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwc3siPu2atA31mV2R6Yfas0MhQFDlTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294562834700-s3fhu3fs1k18sch5duk89ov1l6fleokj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

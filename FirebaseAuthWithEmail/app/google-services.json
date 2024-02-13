@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353125449944",
+    "project_id": "fir-authemail-ac9fd",
+    "storage_bucket": "fir-authemail-ac9fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353125449944:android:83326833e5c4b23d5297ad",
+        "android_client_info": {
+          "package_name": "com.navod.firebaseauthwithemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDef8RAEsdfmds8MyYLC3gzrYbtqRTBmXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

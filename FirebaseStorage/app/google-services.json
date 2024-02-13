@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395550416501",
+    "project_id": "fir-storage-553dc",
+    "storage_bucket": "fir-storage-553dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395550416501:android:09a55cec2af354eb23a23c",
+        "android_client_info": {
+          "package_name": "com.navod.firebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwiastODZOMx9qcJPPcQP5JqXfeqxwb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

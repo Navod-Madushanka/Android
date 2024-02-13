@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44305566210",
+    "project_id": "fir-authentication-63d87",
+    "storage_bucket": "fir-authentication-63d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44305566210:android:46605fb4be3a592435751b",
+        "android_client_info": {
+          "package_name": "com.navod.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKoqroSy9RZcsOK5gBvKFMTUf_cc6J7Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

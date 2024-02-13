@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063412498709",
+    "project_id": "fir-text-6d04e",
+    "storage_bucket": "fir-text-6d04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063412498709:android:74b0a9b183581072a5291c",
+        "android_client_info": {
+          "package_name": "com.navod.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02Uuvxa3BzHDlFRHDQ5TcBBLD0u3ugYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

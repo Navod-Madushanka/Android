@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "294562834700",
+    "project_id": "etrade-b0f68",
+    "storage_bucket": "etrade-b0f68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294562834700:android:55c9454790c42cdc2e8129",
+        "android_client_info": {
+          "package_name": "com.navod.etrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwc3siPu2atA31mV2R6Yfas0MhQFDlTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294562834700:android:a2d82c62047fee3f2e8129",
+        "android_client_info": {
+          "package_name": "com.navod.etradeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwc3siPu2atA31mV2R6Yfas0MhQFDlTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294562834700:android:82acf5d0074f9ba02e8129",
+        "android_client_info": {
+          "package_name": "com.navod.etradedelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwc3siPu2atA31mV2R6Yfas0MhQFDlTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
