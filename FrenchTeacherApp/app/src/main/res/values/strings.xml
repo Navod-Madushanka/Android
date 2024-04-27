@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FrenchTeacherApp</string>
+    <string name="appName">French Teacher App</string>
+    <string name="btnColor1">Black</string>
+    <string name="btnColor2">Green</string>
+    <string name="btnColor3">Purple</string>
+    <string name="btnColor4">Red</string>
+    <string name="btnColor5">Yellow</string>
+</resources>
